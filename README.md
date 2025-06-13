@@ -10,3 +10,4 @@ Spring Boot Demo CRUD application with MS SQL SERVER as database engine.
 - Flyway
 - Lombok
 - SQL Server
+- Docker
